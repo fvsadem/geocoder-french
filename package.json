@@ -1,0 +1,32 @@
+{
+  "name": "geocoder-french",
+  "version": "1.0.0",
+  "description": "Geocoder & reverse-geocoder for French territory. (fork of geocoder-fr)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "keywords": [
+    "geocode",
+    "geocoding",
+    "reverse-geocode",
+    "reverse-geocoding",
+    "gps",
+    "opendata",
+    "France",
+    "geojson"
+  ],
+  "author": "fvsadem",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvsadem/geocoder-french.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fvsadem/geocoder-french/issues"
+  },
+  "homepage": "https://github.com/fvsadem/geocoder-french#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
